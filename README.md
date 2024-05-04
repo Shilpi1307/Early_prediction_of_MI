@@ -4,10 +4,10 @@ Myocardial Infarction (MI), also known as a heart attack, is a serious condition
 The significance of this study lies in its potential to Early and accurate prediction of complications is the key to managing and preventing death due to complications caused by MI.
 Most studies do not focus on post-MI complications. In-Hospital Longitudinal analysis of complications not addressed..
 An attempt has been made to predict complications of Myocardial Infarction (MI) based on patient information collected at the following four points of time-<br>
-time of admission to the hospital<br>
-end of the first day (24 hours after admission)<br> 
-end of the second day (48 hrs after admission)<br>
-end of the third day (72 hrs after admission)<br> 
+1.time of admission to the hospital<br>
+2.end of the first day (24 hours after admission)<br> 
+3.end of the second day (48 hrs after admission)<br>
+4.end of the third day (72 hrs after admission)<br> 
 
 This study is intended for the effective management of MI so that the lethal outcome may be prevented.
 
@@ -15,7 +15,7 @@ This study is intended for the effective management of MI so that the lethal out
 https://archive.ics.uci.edu/dataset/579/myocardial+infarction+complications.
 ### Functioning of the models
 For this research, I have used various machine learning models.<br>
-There are four folders in the repository :
+There are three folders in the repository :
 1. Early_prediction_mi.ipynb: Contains the preprocessing & models implemented on the dataset.
 2. Results: Contains images of the  elbow curve, heatmaps of the clusters of the complications of mi.
 3. Methodology: contains the image of the flow of the whole methodology to peform whole study.
